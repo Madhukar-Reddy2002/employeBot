@@ -37,9 +37,7 @@ Clone the repository and navigate into the project folder:
 
 ```bash
 # Clone this repository
-git clone https://github.com/your-repo/company-db-assistant.git
-cd company-db-assistant
-
+git clone https://github.com/Madhukar-Reddy2002/employeBot
 # Install required Python libraries
 pip install -r requirements.txt
 ```
